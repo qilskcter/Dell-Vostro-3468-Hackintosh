@@ -31,7 +31,9 @@
 ## Features
 
 | ``Features``|``Working``| 
+|-------------|-----------|
 | ``Wifi``|✅|
+| ``Bluetooth``|❌|
 | ``Audio``|✅|
 | ``Keyboard and Trackpad``|✅|
 | ``Headphone Jack``|✅|
